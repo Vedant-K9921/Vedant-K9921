@@ -1,6 +1,7 @@
 # Hi, I'm Vedant Kamble 👋
 
-🎓 BCA Student @ Haribhai V. Desai College, Pune (Class of 2026)
+🎓 MCA Student @ IMCC College, Pune (Class of 2026-28)
+🎓 BCA Student @ Haribhai V. Desai College, Pune (Class of 2023-26)
 💻 Full-Stack Web Developer | Building real-world projects to launch my career
 🌱 Currently deepening my skills in Java, Spring Boot, and React.js
 
